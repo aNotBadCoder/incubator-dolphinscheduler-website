@@ -1,0 +1,7 @@
+测试一个gitee 修改.git 目录下config 之后修改为github之后的首次提交
+1.先同步数据
+2.新建dev-local-test分支，并切换到远程分支
+3.新建test.txt文件，并编辑文字
+4.添加到暂存区
+5.提交commit
+6.推送到远程分支
