@@ -34,3 +34,7 @@ yarn.lock
 package-lock.json
 config.gypi
 md_json
+404.html
+en-us/
+index.html
+zh-cn/
